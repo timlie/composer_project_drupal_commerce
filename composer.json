@@ -21,6 +21,7 @@
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal/admin_toolbar": "^1.20",
         "drupal/commerce": "^2.1",
+        "drupal/commerce_shipping": "^2.0@beta",
         "drupal/console": "^1.0.2",
         "drupal/core": "~8.4",
         "drupal/module_filter": "^3.1",
